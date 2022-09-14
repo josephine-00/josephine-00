@@ -18,3 +18,5 @@ My stats here!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephine-00&layout=compact&show_icons=true&theme=solarized-light)](https://github.com/josephine-00/github-readme-stats)
 
+
+![LeetCode Stats](https://leetcode.card.workers.dev/josephine-00?theme=forest&font=baloo&extension=null)
