@@ -1,4 +1,4 @@
-### ======================== ✨👋  Hi there!! I'm Jo~  👋✨ ========================
+### ✨👋  Hi there!! I'm Jo~  👋✨ 
 
 My email: josephine.esposito.2000@gmail.com
 
